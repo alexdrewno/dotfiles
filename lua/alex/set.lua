@@ -14,7 +14,3 @@ vim.opt.scrolloff = 8
 vim.opt.wrap = true
 
 vim.opt.mouse = c
-
--- Autoformatting with registered lsp
--- vim.cmd [[autocmd BufWritePre *.rs lua vim.lsp.buf.format({ async = false })]]
-
