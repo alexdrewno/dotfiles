@@ -14,3 +14,4 @@ vim.opt.scrolloff = 8
 vim.opt.wrap = true
 
 vim.opt.mouse = c
+

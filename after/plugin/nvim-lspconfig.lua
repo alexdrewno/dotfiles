@@ -48,7 +48,7 @@ lspconfig.tsserver.setup{
     settings = {documentFormatting = true},
 }
 
-lspconfig.gopls.setup{
+lspconfig.gopls.setup {
     on_attach = on_attach,
     flags = lsp_flags,
 }
